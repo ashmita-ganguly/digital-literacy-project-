@@ -32,7 +32,7 @@ Created professional profiles on platforms like GitHub ,Kaggle and LinkedIn.
 Completed a coding challenge and created a Google Form quiz.
 📁 Folder: task-3-platforms
 
-🔗 Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLSdm7GfVT4nwox8mvqckeJQP7f9QL0fd7dtQB2LUOQ0BqwA-xw/viewform?usp=publish-editor
+🔗 Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLSc-Zd0_a7NMM7c7eOhKY6wfVZbJ8loeVy0A0DnB49z0H9fvIQ/viewform?usp=dialog
 
 ---
 
